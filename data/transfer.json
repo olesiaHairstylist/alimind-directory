@@ -1,0 +1,41 @@
+[
+  {
+    "id": "TRF_01",
+    "category": "transfer",
+    "name": "Alanya Airport Transfer",
+    "type": "Airport Transfer",
+    "status": "standard",
+    "address": "Alanya, Turkey",
+    "google_maps": "https://maps.google.com/?q=Alanya",
+    "phone": "+90 532 000 00 00",
+    "whatsapp": "https://wa.me/905320000000",
+    "languages": ["TR", "EN"],
+    "description": "Аэропортовый трансфер из/в Antalya (AYT) и Gazipaşa (GZP). Частные поездки, минивэны, седаны. Фиксированные тарифы."
+  },
+  {
+    "id": "TRF_02",
+    "category": "transfer",
+    "name": "Mahmutlar Private Driver",
+    "type": "Private Driver",
+    "status": "standard",
+    "address": "Mahmutlar, Alanya",
+    "google_maps": "https://maps.google.com/?q=Mahmutlar",
+    "phone": "+90 555 111 11 11",
+    "whatsapp": "",
+    "languages": ["TR"],
+    "description": "Частный водитель: поездки по Аланье, магазины, больницы, межгород. Оплата наличными."
+  },
+  {
+    "id": "TRF_03",
+    "category": "transfer",
+    "name": "Oba Taxi Service",
+    "type": "Taxi",
+    "status": "standard",
+    "address": "Oba Mah., Alanya",
+    "google_maps": "https://maps.google.com/?q=Oba+Mah",
+    "phone": "+90 242 222 22 22",
+    "whatsapp": "",
+    "languages": ["TR"],
+    "description": "Локальное такси в районе Оба и Тосмур. Короткие и средние поездки по городу."
+  }
+]
