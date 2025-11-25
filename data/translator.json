@@ -1,0 +1,28 @@
+[
+  {
+    "id": "TRN_01",
+    "category": "translator",
+    "name": "Serkan Akgün",
+    "type": "Sworn Translator",
+    "status": "partner",
+    "address": "Alanya Center, Turkey",
+    "google_maps": "https://maps.google.com/?q=Alanya",
+    "phone": "+90 555 555 55 55",
+    "whatsapp": "https://wa.me/905555555555",
+    "languages": ["TR", "RU", "EN"],
+    "description": "Присяжный переводчик: нотариальные переводы, сопровождение, документы, сделки с недвижимостью, госучреждения."
+  },
+  {
+    "id": "TRN_02",
+    "category": "translator",
+    "name": "Alanya Translation Office",
+    "type": "Translation Office",
+    "status": "standard",
+    "address": "Şekerhane Mah., Alanya",
+    "google_maps": "https://maps.google.com/?q=Alanya",
+    "phone": "+90 242 522 22 22",
+    "whatsapp": "",
+    "languages": ["TR", "EN"],
+    "description": "Бюро переводов: официальные документы, сопровождение в госорганах, перевод договоров и справок."
+  }
+]
