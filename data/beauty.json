@@ -1,0 +1,42 @@
+[
+  {
+    "id": "BEAUTY_01",
+    "category": "beauty",
+    "name": "Olesya Hair Studio",
+    "type": "Hair Stylist",
+    "status": "partner",
+    "address": "Mahmutlar Mah., Barbaros Cd., Alanya",
+    "google_maps": "https://maps.google.com/?q=Mahmutlar+Barbaros+Cd",
+    "phone": "+90 552 000 00 00",
+    "whatsapp": "https://wa.me/905520000000",
+    "languages": ["RU", "TR", "EN"],
+    "instagram": "https://instagram.com/olesya.hair07",
+    "description": "Женский парикмахер: окрашивание, холодный блонд, уходовые процедуры, стрижки, восстановление волос."
+  },
+  {
+    "id": "BEAUTY_02",
+    "category": "beauty",
+    "name": "Oba Beauty Center",
+    "type": "Beauty Salon",
+    "status": "standard",
+    "address": "Oba Mah., Mesut Cd., Alanya",
+    "google_maps": "https://maps.google.com/?q=Oba+Beauty+Center",
+    "phone": "+90 242 333 33 33",
+    "whatsapp": "",
+    "languages": ["TR", "EN"],
+    "description": "Салон красоты: стрижки, маникюр, педикюр, уходовые процедуры, окрашивания."
+  },
+  {
+    "id": "BEAUTY_03",
+    "category": "beauty",
+    "name": "Nails & More Alanya",
+    "type": "Nail Studio",
+    "status": "standard",
+    "address": "Tosmur Mah., Dimçayı Cd., Alanya",
+    "google_maps": "https://maps.google.com/?q=Nails+Alanya",
+    "phone": "+90 242 444 44 44",
+    "whatsapp": "",
+    "languages": ["TR"],
+    "description": "Неил-студия: маникюр, педикюр, укрепление, покрытие, дизайн."
+  }
+]
