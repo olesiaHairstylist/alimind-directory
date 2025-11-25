@@ -1,0 +1,41 @@
+[
+  {
+    "id": "SPORT_01",
+    "category": "sport",
+    "name": "Gym Factory Alanya XL",
+    "type": "Gym & Boxing",
+    "status": "standard",
+    "address": "Mahmutlar Mah., Barbaros Cad., Alanya",
+    "google_maps": "https://maps.google.com/?q=Gym+Factory+Alanya+XL",
+    "phone": "+90 242 510 50 90",
+    "whatsapp": "",
+    "languages": ["TR", "EN"],
+    "description": "Фитнес-клуб и бокс-зона. Тренажёры, кардио, персональные тренировки, секции для детей и взрослых."
+  },
+  {
+    "id": "SPORT_02",
+    "category": "sport",
+    "name": "Alanya Boxing Club",
+    "type": "Boxing Club",
+    "status": "standard",
+    "address": "Tosmur Mah., Dimçayı Cd. No:14, Alanya",
+    "google_maps": "https://maps.google.com/?q=Alanya+Boxing+Club",
+    "phone": "+90 242 515 66 11",
+    "whatsapp": "",
+    "languages": ["TR"],
+    "description": "Секция бокса для детей, подростков и взрослых. Групповые тренировки, техника, подготовка к соревнованиям."
+  },
+  {
+    "id": "SPORT_03",
+    "category": "sport",
+    "name": "Alanya CrossFit Center",
+    "type": "CrossFit",
+    "status": "standard",
+    "address": "Oba Mah., Yaylalı Cd. No:18, Alanya",
+    "google_maps": "https://maps.google.com/?q=Alanya+CrossFit+Center",
+    "phone": "+90 242 513 45 77",
+    "whatsapp": "",
+    "languages": ["TR", "EN"],
+    "description": "Кроссфит-клуб: функциональный тренинг, силовые тренировки, подготовка, программы для новичков и профи."
+  }
+]
