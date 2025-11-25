@@ -1,0 +1,41 @@
+[
+  {
+    "id": "MED_PH_01",
+    "category": "med",
+    "name": "Derman Eczanesi",
+    "type": "Pharmacy",
+    "status": "standard",
+    "address": "Mahmutlar, Barbaros Cad.",
+    "google_maps": "https://maps.google.com/?q=Derman+Eczanesi+Mahmutlar",
+    "phone": "+90 242 123 45 67",
+    "whatsapp": "",
+    "languages": ["TR"],
+    "description": "Аптека в центре Махмутлара: медикаменты, уходовая косметика, измерение давления."
+  },
+  {
+    "id": "MED_PH_02",
+    "category": "med",
+    "name": "Oba Eczanesi",
+    "type": "Pharmacy",
+    "status": "standard",
+    "address": "Oba Mah., Çevreyolu Cd.",
+    "google_maps": "https://maps.google.com/?q=Oba+Eczanesi+Alanya",
+    "phone": "+90 242 234 56 78",
+    "whatsapp": "",
+    "languages": ["TR", "EN"],
+    "description": "Аптека в Оба: лекарства, консультации, товары для ухода и здоровья."
+  },
+  {
+    "id": "MED_PH_03",
+    "category": "med",
+    "name": "Tosmur Eczanesi",
+    "type": "Pharmacy",
+    "status": "standard",
+    "address": "Tosmur Mah., Dimçayı Cad.",
+    "google_maps": "https://maps.google.com/?q=Tosmur+Eczanesi",
+    "phone": "+90 242 345 67 89",
+    "whatsapp": "",
+    "languages": ["TR"],
+    "description": "Аптека рядом с рекой Димчай: медикаменты, консультации, товары первой необходимости."
+  }
+]
