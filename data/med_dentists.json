@@ -1,0 +1,41 @@
+[
+  {
+    "id": "MED_DT_01",
+    "category": "med",
+    "name": "DentCare Alanya",
+    "type": "Dental Clinic",
+    "status": "standard",
+    "address": "Oba Mah., Fabrika Cad. No:12, Alanya",
+    "google_maps": "https://maps.google.com/?q=DentCare+Alanya",
+    "phone": "+90 242 555 12 12",
+    "whatsapp": "",
+    "languages": ["TR", "EN", "RU"],
+    "description": "Современная стоматология: терапия, чистка, протезирование, имплантация, детская стоматология."
+  },
+  {
+    "id": "MED_DT_02",
+    "category": "med",
+    "name": "Smile Clinic Mahmutlar",
+    "type": "Dental Clinic",
+    "status": "standard",
+    "address": "Mahmutlar Mah., Atatürk Cd. No: 45, Alanya",
+    "google_maps": "https://maps.google.com/?q=Smile+Clinic+Mahmutlar",
+    "phone": "+90 242 576 77 88",
+    "whatsapp": "",
+    "languages": ["TR", "EN"],
+    "description": "Стоматологическая клиника в Махмутларе: импланты, коронки, эстетическая стоматология, рентген."
+  },
+  {
+    "id": "MED_DT_03",
+    "category": "med",
+    "name": "Alanya Dental Center",
+    "type": "Dental Clinic",
+    "status": "standard",
+    "address": "Saray Mah., Hacet Cd., Alanya",
+    "google_maps": "https://maps.google.com/?q=Alanya+Dental+Center",
+    "phone": "+90 242 513 22 11",
+    "whatsapp": "",
+    "languages": ["TR"],
+    "description": "Центр стоматологии: лечение кариеса, панорамный снимок, консультации специалистов."
+  }
+]
