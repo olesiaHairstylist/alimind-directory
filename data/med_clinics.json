@@ -1,0 +1,41 @@
+[
+  {
+    "id": "MED_CL_01",
+    "category": "med",
+    "name": "Anatolia Hospital Alanya",
+    "type": "Private Hospital",
+    "status": "standard",
+    "address": "Oba Mah., Çevreyolu Cd. No:26, Alanya",
+    "google_maps": "https://maps.google.com/?q=Anatolia+Hospital+Alanya",
+    "phone": "+90 242 510 23 23",
+    "whatsapp": "",
+    "languages": ["TR", "EN", "RU"],
+    "description": "Крупная частная больница в районе Оба: терапия, диагностика, хирургия, анализы, 24/7 отделение."
+  },
+  {
+    "id": "MED_CL_02",
+    "category": "med",
+    "name": "Yaşam Hospital Alanya",
+    "type": "Private Hospital",
+    "status": "standard",
+    "address": "Şekerhane Mah., Bostancipınarı Cd. No: 11, Alanya",
+    "google_maps": "https://maps.google.com/?q=Yaşam+Hospital+Alanya",
+    "phone": "+90 242 515 00 00",
+    "whatsapp": "",
+    "languages": ["TR", "EN"],
+    "description": "Частная клиника: диагностика, терапия, стоматология, обследования, хирургические отделения."
+  },
+  {
+    "id": "MED_CL_03",
+    "category": "med",
+    "name": "Baskent University Hospital Alanya",
+    "type": "Hospital",
+    "status": "standard",
+    "address": "Saray Mah., Yunus Emre Cd. No:1, Alanya",
+    "google_maps": "https://maps.google.com/?q=Baskent+University+Hospital+Alanya",
+    "phone": "+90 242 510 25 25",
+    "whatsapp": "",
+    "languages": ["TR"],
+    "description": "Университетская больница: анализы, кардиология, терапия, перевязки, консультации специалистов."
+  }
+]
