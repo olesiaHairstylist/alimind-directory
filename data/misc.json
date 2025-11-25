@@ -1,0 +1,41 @@
+[
+  {
+    "id": "MISC_01",
+    "category": "misc",
+    "name": "Ziraat Bankası Alanya",
+    "type": "Bank",
+    "status": "standard",
+    "address": "Şekerhane Mah., Alanya",
+    "google_maps": "https://maps.google.com/?q=Ziraat+Bankası+Alanya",
+    "phone": "+90 242 522 20 20",
+    "whatsapp": "",
+    "languages": ["TR"],
+    "description": "Крупное отделение: банковские операции, счета, карточки, переводы, обслуживание."
+  },
+  {
+    "id": "MISC_02",
+    "category": "misc",
+    "name": "Döviz Exchange Office",
+    "type": "Currency Exchange",
+    "status": "standard",
+    "address": "Alanya Center",
+    "google_maps": "https://maps.google.com/?q=Alanya+Döviz",
+    "phone": "",
+    "whatsapp": "",
+    "languages": ["TR", "EN"],
+    "description": "Обмен валюты по рыночным курсам. Популярная точка в центре Аланьи."
+  },
+  {
+    "id": "MISC_03",
+    "category": "misc",
+    "name": "Migros MM",
+    "type": "Supermarket",
+    "status": "standard",
+    "address": "Oba Mah., Alanya",
+    "google_maps": "https://maps.google.com/?q=Migros+Oba",
+    "phone": "",
+    "whatsapp": "",
+    "languages": ["TR"],
+    "description": "Супермаркет: продукты, бытовые товары, базовая косметика, напитки."
+  }
+]
