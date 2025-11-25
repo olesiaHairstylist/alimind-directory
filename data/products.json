@@ -1,0 +1,54 @@
+[
+  {
+    "id": "PROD_01",
+    "category": "products",
+    "name": "AliMind Crypto Assistant",
+    "type": "AI Bot",
+    "status": "standard",
+    "address": "Digital product",
+    "google_maps": "",
+    "phone": "",
+    "whatsapp": "",
+    "languages": ["RU", "EN"],
+    "description": "Интеллектуальный крипто-ассистент: анализ рынка, сигналы, уровни, риск-менеджмент, автоматизированные сценарии."
+  },
+  {
+    "id": "PROD_02",
+    "category": "products",
+    "name": "AliMind Tutor",
+    "type": "AI Learning Assistant",
+    "status": "standard",
+    "address": "Digital product",
+    "google_maps": "",
+    "phone": "",
+    "whatsapp": "",
+    "languages": ["RU", "TR", "EN"],
+    "description": "Обучающий ИИ-модуль: языки, задания, перевод, обучение по структуре, система прогресса."
+  },
+  {
+    "id": "PROD_03",
+    "category": "products",
+    "name": "AliMind Directory Bot",
+    "type": "AI City Assistant",
+    "status": "standard",
+    "address": "Digital product",
+    "google_maps": "",
+    "phone": "",
+    "whatsapp": "",
+    "languages": ["RU"],
+    "description": "Городской справочник: госслужбы, аптеки, клиники, такси, переводчики, спорт, beauty — данные по Аланье."
+  },
+  {
+    "id": "PROD_04",
+    "category": "products",
+    "name": "AliMind Subscription",
+    "type": "Digital Subscription",
+    "status": "standard",
+    "address": "Digital product",
+    "google_maps": "",
+    "phone": "",
+    "whatsapp": "",
+    "languages": ["RU", "EN"],
+    "description": "Подписка на систему AliMind: расширенные ответы, персональные решения, приоритетные функции и инструменты."
+  }
+]
