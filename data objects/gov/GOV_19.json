@@ -1,0 +1,14 @@
+{
+  "id": "GOV_19",
+  "category": "gov",
+  "name": "Alanya Adliyesi",
+  "type": "Adliye",
+  "status": "standard",
+  "address": "Cikcilli Mah., Alanya, Antalya",
+  "google_maps": "https://maps.google.com/?q=88",
+  "phone": "+90 (242) 119 3019",
+  "whatsapp": "",
+  "languages": ["TR"],
+  "description": "Hukuki işlemler ve mahkeme süreçleri için adli binası.",
+  "working_hours": "08:30–17:00"
+}
