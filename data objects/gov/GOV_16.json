@@ -1,0 +1,14 @@
+{
+  "id": "GOV_16",
+  "category": "gov",
+  "name": "Alanya Emniyet Müdürlüğü",
+  "type": "Emniyet Müdürlüğü",
+  "status": "standard",
+  "address": "Center Mah., Alanya, Antalya",
+  "google_maps": "https://maps.google.com/?q=85",
+  "phone": "+90 (242) 116 3016",
+  "whatsapp": "",
+  "languages": ["TR", "EN", "RU"],
+  "description": "Polis hizmetleri ve güvenlik konuları için merkezi birim.",
+  "working_hours": "24/7"
+}
