@@ -1,0 +1,14 @@
+{
+  "id": "GOV_08",
+  "category": "gov",
+  "name": "Tapu Müdürlüğü",
+  "type": "Tapu Müdürlüğü",
+  "status": "standard",
+  "address": "Mahmutlar Mah., Alanya, Antalya",
+  "google_maps": "https://maps.google.com/?q=77",
+  "phone": "+90 (242) 108 3008",
+  "whatsapp": "",
+  "languages": ["TR"],
+  "description": "Gayrimenkul alım, satım ve tapu tescil işlemleri.",
+  "working_hours": "08:30–17:00"
+}
