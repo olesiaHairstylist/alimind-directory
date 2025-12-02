@@ -1,0 +1,14 @@
+{
+  "id": "BEAUTY_06",
+  "category": "beauty",
+  "name": "Golden Touch",
+  "type": "Салон красоты",
+  "status": "standard",
+  "address": "Center Mah., Alanya",
+  "google_maps": "https://maps.google.com/?q=Beauty+06",
+  "phone": "+90 555 200 00 05",
+  "whatsapp": "",
+  "languages": ["TR", "EN"],
+  "description": "Уход за лицом и телом, косметология.",
+  "working_hours": "Пн–Сб 09:00–18:00"
+}
