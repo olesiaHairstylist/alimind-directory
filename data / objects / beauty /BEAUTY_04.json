@@ -1,0 +1,14 @@
+{
+  "id": "BEAUTY_04",
+  "category": "beauty",
+  "name": "Diamond Hair",
+  "type": "Парикмахерская",
+  "status": "standard",
+  "address": "Tosmur Mah., Alanya",
+  "google_maps": "https://maps.google.com/?q=Beauty+04",
+  "phone": "+90 555 200 00 03",
+  "whatsapp": "",
+  "languages": ["TR"],
+  "description": "Женские и мужские стрижки. Укладки и окрашивание.",
+  "working_hours": "Пн–Сб 09:00–18:00"
+}
