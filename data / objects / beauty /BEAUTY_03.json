@@ -1,0 +1,14 @@
+{
+  "id": "BEAUTY_03",
+  "category": "beauty",
+  "name": "ProBeauty Studio",
+  "type": "Студия красоты",
+  "status": "standard",
+  "address": "Oba Mah., Alanya",
+  "google_maps": "https://maps.google.com/?q=Beauty+03",
+  "phone": "+90 555 200 00 02",
+  "whatsapp": "",
+  "languages": ["TR", "EN"],
+  "description": "Студия красоты с полным спектром услуг.",
+  "working_hours": "Пн–Вс 10:00–20:00"
+}
