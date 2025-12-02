@@ -1,0 +1,14 @@
+{
+  "id": "GOV_15",
+  "category": "gov",
+  "name": "Alanya Belediyesi",
+  "type": "Belediye",
+  "status": "standard",
+  "address": "Tosmur Mah., Alanya, Antalya",
+  "google_maps": "https://maps.google.com/?q=84",
+  "phone": "+90 (242) 115 3015",
+  "whatsapp": "",
+  "languages": ["TR"],
+  "description": "Belediye hizmetleri, izinler, ve resmi başvurular.",
+  "working_hours": "08:30–17:00"
+}
