@@ -1,0 +1,14 @@
+{
+  "id": "GOV_11",
+  "category": "gov",
+  "name": "Vergi Dairesi",
+  "type": "Vergi Dairesi",
+  "status": "standard",
+  "address": "Center Mah., Alanya, Antalya",
+  "google_maps": "https://maps.google.com/?q=80",
+  "phone": "+90 (242) 111 3011",
+  "whatsapp": "",
+  "languages": ["TR"],
+  "description": "Vergi ödemeleri ve beyanname işlemleri için ana ofis.",
+  "working_hours": "08:30–17:00"
+}
