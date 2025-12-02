@@ -1,0 +1,14 @@
+{
+  "id": "GOV_10",
+  "category": "gov",
+  "name": "Vergi Dairesi",
+  "type": "Vergi Dairesi",
+  "status": "standard",
+  "address": "Tosmur Mah., Alanya, Antalya",
+  "google_maps": "https://maps.google.com/?q=79",
+  "phone": "+90 (242) 110 3010",
+  "whatsapp": "",
+  "languages": ["TR"],
+  "description": "Vergi ödemeleri ve beyanname işlemleri için ana ofis.",
+  "working_hours": "08:30–17:00"
+}
