@@ -1,0 +1,14 @@
+{
+  "id": "GOV_01",
+  "category": "gov",
+  "name": "Nüfus Müdürlüğü",
+  "type": "Nüfus Müdürlüğü",
+  "status": "standard",
+  "address": "Center Mah., Alanya, Antalya",
+  "google_maps": "https://maps.google.com/?q=70",
+  "phone": "+90 (242) 101 3001",
+  "whatsapp": "",
+  "languages": ["TR", "EN", "RU"],
+  "description": "Kimlik, pasaport ve adres kayıt işlemleri. Hızlı ve güvenilir hizmet.",
+  "working_hours": "08:30–17:00"
+}
