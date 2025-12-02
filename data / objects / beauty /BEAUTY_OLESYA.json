@@ -1,0 +1,15 @@
+{
+  "id": "BEAUTY_OLESYA",
+  "category": "beauty",
+  "name": "Olesya Hair Stylist",
+  "type": "Парикмахер / Женский мастер",
+  "status": "partner",
+  "address": "Alanya, Center",
+  "google_maps": "https://maps.google.com/?q=Olesya+Hair",
+  "phone": "+90 553 000 00 00",
+  "whatsapp": "+90 553 000 00 00",
+  "languages": ["RU", "TR", "EN"],
+  "instagram": "https://instagram.com/olesya.hair07",
+  "description": "Женские стрижки, окрашивание, блонд, уход. Индивидуальный подход и высокий уровень сервиса.",
+  "working_hours": "По записи"
+}
