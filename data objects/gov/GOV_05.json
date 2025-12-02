@@ -1,0 +1,14 @@
+{
+  "id": "GOV_05",
+  "category": "gov",
+  "name": "Nüfus Müdürlüğü",
+  "type": "Nüfus Müdürlüğü",
+  "status": "standard",
+  "address": "Tosmur Mah., Alanya, Antalya",
+  "google_maps": "https://maps.google.com/?q=74",
+  "phone": "+90 (242) 105 3005",
+  "whatsapp": "",
+  "languages": ["TR"],
+  "description": "Kimlik, pasaport ve адрес kayıt işlemleri. Hızlı ve güvenilir hizmet.",
+  "working_hours": "08:30–17:00"
+}
