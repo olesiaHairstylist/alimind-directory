@@ -1,0 +1,14 @@
+{
+  "id": "BEAUTY_02",
+  "category": "beauty",
+  "name": "Elegance Beauty",
+  "type": "Салон красоты",
+  "status": "standard",
+  "address": "Mahmutlar, Barbaros Cad.",
+  "google_maps": "https://maps.google.com/?q=Beauty+02",
+  "phone": "+90 555 200 00 01",
+  "whatsapp": "",
+  "languages": ["TR"],
+  "description": "Услуги ухода за волосами, маникюр и педикюр.",
+  "working_hours": "Пн–Сб 09:00–19:00"
+}
