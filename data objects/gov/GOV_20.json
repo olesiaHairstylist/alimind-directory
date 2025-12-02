@@ -1,0 +1,14 @@
+{
+  "id": "GOV_20",
+  "category": "gov",
+  "name": "Alanya Adliyesi",
+  "type": "Adliye",
+  "status": "standard",
+  "address": "Tosmur Mah., Alanya, Antalya",
+  "google_maps": "https://maps.google.com/?q=89",
+  "phone": "+90 (242) 120 3020",
+  "whatsapp": "",
+  "languages": ["TR"],
+  "description": "Hukuki işlemler ve mahkeme süreçleri için adli binası.",
+  "working_hours": "08:30–17:00"
+}
