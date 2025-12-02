@@ -1,0 +1,14 @@
+{
+  "id": "GOV_18",
+  "category": "gov",
+  "name": "Alanya Emniyet Müdürlüğü",
+  "type": "Emniyet Müdürlüğü",
+  "status": "standard",
+  "address": "Mahmutlar Mah., Alanya, Antalya",
+  "google_maps": "https://maps.google.com/?q=87",
+  "phone": "+90 (242) 118 3018",
+  "whatsapp": "",
+  "languages": ["TR"],
+  "description": "Polis hizmetleri ve güvenlik konuları için merkezi birим.",
+  "working_hours": "24/7"
+}
