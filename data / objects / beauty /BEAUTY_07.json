@@ -1,0 +1,14 @@
+{
+  "id": "BEAUTY_07",
+  "category": "beauty",
+  "name": "Magic Nails",
+  "type": "Маникюрный салон",
+  "status": "standard",
+  "address": "Mahmutlar, Atatürk Cad.",
+  "google_maps": "https://maps.google.com/?q=Beauty+07",
+  "phone": "+90 555 200 00 06",
+  "whatsapp": "",
+  "languages": ["TR"],
+  "description": "Маникюр, педикюр, дизайн ногтей.",
+  "working_hours": "Пн–Сб 10:00–20:00"
+}
