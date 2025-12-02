@@ -1,0 +1,14 @@
+{
+  "id": "GOV_14",
+  "category": "gov",
+  "name": "Alanya Belediyesi",
+  "type": "Belediye",
+  "status": "standard",
+  "address": "Cikcilli Mah., Alanya, Antalya",
+  "google_maps": "https://maps.google.com/?q=83",
+  "phone": "+90 (242) 114 3014",
+  "whatsapp": "",
+  "languages": ["TR"],
+  "description": "Belediye hizmetleri, izinler, ve resmi başvurular.",
+  "working_hours": "08:30–17:00"
+}
