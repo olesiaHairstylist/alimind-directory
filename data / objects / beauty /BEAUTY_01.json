@@ -1,0 +1,14 @@
+{
+  "id": "BEAUTY_01",
+  "category": "beauty",
+  "name": "Beauty объект 01",
+  "type": "Салон красоты",
+  "status": "standard",
+  "address": "Alanya",
+  "google_maps": "https://maps.google.com/?q=Alanya",
+  "phone": "+90 242 000 00 00",
+  "whatsapp": "",
+  "languages": ["TR"],
+  "description": "Салон красоты в Аланье. Тестовый объект 01 для AliMind Directory.",
+  "working_hours": "Пн–Пт 09:00–18:00"
+}
