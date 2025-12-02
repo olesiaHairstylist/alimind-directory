@@ -1,0 +1,14 @@
+{
+  "id": "GOV_17",
+  "category": "gov",
+  "name": "Alanya Emniyet Müdürlüğü",
+  "type": "Emniyet Müdürlüğü",
+  "status": "standard",
+  "address": "Oba Mah., Alanya, Antalya",
+  "google_maps": "https://maps.google.com/?q=86",
+  "phone": "+90 (242) 117 3017",
+  "whatsapp": "",
+  "languages": ["TR"],
+  "description": "Polis hizmetleri ve güvenlik konuları için merkezi birim.",
+  "working_hours": "24/7"
+}
