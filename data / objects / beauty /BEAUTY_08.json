@@ -1,0 +1,14 @@
+{
+  "id": "BEAUTY_08",
+  "category": "beauty",
+  "name": "Luxury Brow Bar",
+  "type": "Бровист / Визаж",
+  "status": "standard",
+  "address": "Kestel Mah., Alanya",
+  "google_maps": "https://maps.google.com/?q=Beauty+08",
+  "phone": "+90 555 200 00 07",
+  "whatsapp": "",
+  "languages": ["TR", "RU"],
+  "description": "Коррекция бровей, визаж, ламинирование.",
+  "working_hours": "Пн–Пт 11:00–19:00"
+}
