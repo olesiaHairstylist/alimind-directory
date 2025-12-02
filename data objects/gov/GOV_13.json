@@ -1,0 +1,14 @@
+{
+  "id": "GOV_13",
+  "category": "gov",
+  "name": "Alanya Belediyesi",
+  "type": "Belediye",
+  "status": "standard",
+  "address": "Mahmutlar Mah., Alanya, Antalya",
+  "google_maps": "https://maps.google.com/?q=82",
+  "phone": "+90 (242) 113 3013",
+  "whatsapp": "",
+  "languages": ["TR", "EN", "RU"],
+  "description": "Belediye hizmetleri, izinler, ve resmi başvurular.",
+  "working_hours": "08:30–17:00"
+}
