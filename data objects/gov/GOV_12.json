@@ -1,0 +1,14 @@
+{
+  "id": "GOV_12",
+  "category": "gov",
+  "name": "Vergi Dairesi",
+  "type": "Vergi Dairesi",
+  "status": "standard",
+  "address": "Oba Mah., Alanya, Antalya",
+  "google_maps": "https://maps.google.com/?q=81",
+  "phone": "+90 (242) 112 3012",
+  "whatsapp": "",
+  "languages": ["TR"],
+  "description": "Vergi ödemeleri ve beyanname işlemleri için ana ofis.",
+  "working_hours": "08:30–17:00"
+}
