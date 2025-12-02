@@ -1,0 +1,14 @@
+{
+  "id": "BEAUTY_05",
+  "category": "beauty",
+  "name": "BeautyLab",
+  "type": "Салон красоты",
+  "status": "standard",
+  "address": "Cikcilli Mah., Alanya",
+  "google_maps": "https://maps.google.com/?q=Beauty+05",
+  "phone": "+90 555 200 00 04",
+  "whatsapp": "",
+  "languages": ["TR"],
+  "description": "Профессиональные услуги визажа, брови, ресницы.",
+  "working_hours": "Пн–Пт 10:00–19:00"
+}
